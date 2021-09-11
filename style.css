@@ -1,0 +1,43 @@
+img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background-color: cyan;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.links : hover {
+    font-size: 20px;
+    background-color: darkorange;
+}
+
+#video {
+    text-align: center;
+    font-size: 25px;
+    background-color: cyan;
+    padding-bottom: 10px;
+}
+
+hr {
+    width: 100px;
+    height: 4px;
+    background-color: #f90c0c;
+}
